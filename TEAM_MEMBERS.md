@@ -6,7 +6,7 @@ Welcome to our team! Here, you'll find a brief introduction from each of our tea
 
 - **Position:** Team leader
 - **Interests:** Coding, sport, and being at the beach
-- **Fun Fact:** I can consume on average one dark chocolate per day.
+- **Fun Fact:** I can consume on average one dark chocolate per day🍫 😅.
 - **Email:** henrik.ho@gmx.de
 
 
