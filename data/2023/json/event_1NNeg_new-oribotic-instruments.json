@@ -1,0 +1,14 @@
+{
+    "title": "New Oribotic Instruments",
+    "description": "This session is a presentation and (possible demo) of new developments in our work on oribotics instruments at the Ars Electronica Futurelab. It's interesting for musical hardware and software ethusiasts as well as musicians or anyone interested in origami and folding!Our question for this work, what happens to our experience of space when we fold sound? is situated in our research into fundamental artistic methods for origami and robotics, following our central theme of Fold Sensing.Our conceptual approach is to invent foldable musical spaces rather than linear musical scores. The performer can explore the musical volume using choreographed folding paths and geometric gestures. Our themes express ideas of natural folding. Collapse and Crumpling: where the multiplicity of simultaneous folds feels chaotic, intense and mechanistic. Force + Geometry: leans towards the spatial, sparse, and harmonies of synthetic sound.Technically, the instruments are layered electronics and textiles. The main elements are a capacitive sensor array from printed circuit board electrodes crafted as kinetic origami structures. The fold angles are captured in real-time and conveyed through a normalisation algorithm that adjusts for the non-linear capacitive response to the fold angle. These parametrised folded structures offer new affordances to interact, play and perform by contracting and expanding the fold geometry.Our experimental results show new expressive possibilities of folding and insights into fold gestures. We envision oribotic instruments as a form of robotic sculpture, where the program of folded geometry constrains the human-hand movements, and as a form of spatialised musical expression.Earlier work on the same topic:\u00a0https://matthewgardiner.net/ori/Oribotic_InstrumentsThis project is funded by the FWF PEEK Program as project AR590 ORI*botics On the Art and Science of Origami and Robotics.",
+    "speakers": [
+        {
+            "name": "Matthew Gardiner",
+            "role": "Head of Art Science Research",
+            "organization": "Ars Electronica Future Lab | Studio Matthew Gardiner"
+        }
+    ],
+    "date": "Friday June 16, 2023 16:00 - 16:45 CEST",
+    "location": "Rails",
+    "type": "Arts, Workshop"
+}

@@ -1,0 +1,25 @@
+{
+    "title": "The Future of Ocean Tech",
+    "description": "Discover the future of ocean tech and listen to pitches from spin-off teams! Our topics will cover:Ony Yan Founder of Cerberus Seaweed Systems: The Cerberus seaweed cultivation system is based on the revolutionary  idea of a true sustainable water management. Varied types of algae are  the resource of the future. Mainly known as food, fast growing algae can  be used in medical technology, 3D prototyping, production of e-fuels,  textile processing and many more. Further processing is advanced but  little is developed the actual cultivation and harvesting. As a service  concept, Cerberus offers a semi-autonomous system that creates the basis  for a sustainable working cycle.Dr Jens Karstens Product Owner of MOLA:The marine realm plays a critical role in the transformation of the energy sector, from carbon- based towards carbon-neutral societies. This requires the expansion of offshore wind farms as well as marine-based carbon dioxide removal and storage operations, while simultaneously protecting marine ecosystems. These tasks require detailed, ideally real-time, information about the sub-sea and sub-seafloor processes. However, most of the current subsea observation platforms are large and heavy single-function devices that require significant infrastructure and financial expenses, due to which they are accessible only to a very limited user base.MOLA aims to change this by opening subsea observation technology to a significantly broader user base. Combined with machine learning and communication capacities, MOLA will enable the implementation of smart seafloor monitoring applications to meet the demands of a growing sustainable blue economy.Dr. Fabian Reith Project Lead of Fish-X:We believe in a Common Responsibility to foster Sustainable Fisheries and Marine Biodiversity. Within the Fish-X project, we are therefore developing a Fisheries  Dataspace, a Traceability App, and an Insight Platform \u2013 based on smart  orchestrated architecture and open interoperable technology via Gaia-X.Dr. Anna Canning, Founder of Atrium Environmental: Science-based environmental consulting, project development and  adaptation, ensuring business opportunities in-line with  environmental beliefs.",
+    "speakers": [
+        {
+            "name": "Ony Yan",
+            "role": "Founder of Cerberus Seaweed Systems"
+        },
+        {
+            "name": "Dr. Jens Karstens",
+            "role": "Product Owner of MOLA"
+        },
+        {
+            "name": "Dr. Fabian Reith",
+            "role": "Project Lead of Fish-X"
+        },
+        {
+            "name": "Dr. Anna Canning",
+            "role": "Founder of Atrium Environmental"
+        }
+    ],
+    "date": "Friday June 16, 2023 17:00 - 17:45 CEST",
+    "location": "Ocean Stage",
+    "type": "Startup, Pitching"
+}

@@ -1,0 +1,40 @@
+{
+    "title": "Swedish Food Tech Pitch Sessions",
+    "description": "No description found",
+    "speakers": [
+        {
+            "name": "Ebba Fr\u00f6ling",
+            "role": "COO",
+            "organization": "Mycorena AB",
+            "description": "Ebba is the co-founder and COO of Mycorena - a Swedish company that specializes in sustainable food innovation and production.  Founded in 2017, their primary focus is on developing and producing alternative protein sources using fungi-based fermentation technologies."
+        },
+        {
+            "name": "Dan B\u00f6rjesson",
+            "role": "Owner",
+            "organization": "Pelagic Seafood Sweden AB",
+            "description": "Owner of Pelagic Seafood Sweden AB, we take care of the residual current from the pelagic fishes."
+        },
+        {
+            "name": "Lars Uno Bryngeld",
+            "role": "Owner",
+            "organization": "Pelagic Seafood Sweden Ab",
+            "description": "Owner of Pelagic Seafood Sweden AB, we take care of the residual current from the pelagic fishes."
+        },
+        {
+            "name": "Linda H\u00f6gbacka",
+            "role": "Head of YESBOX - home of entrepreneurs",
+            "organization": "Business region G\u00f6teborg",
+            "description": "Head of a community of startups and innovators at Business region Gothenburg. Passionate about the next generation food system, and how to connect the wellbeing of the planet with the wellbeing of humans."
+        },
+        {
+            "name": "Sanne Ahlvin Kristenseb",
+            "role": "Founder",
+            "organization": "Olikfoods",
+            "description": "We pride ourselves on offering a unique and delicious line of vegan cheese. By utilizing fermentation and innovative flavoring methods that go beyond the typical aromas used in plant-based products, we are able to craft cheeses with the rich, layered flavors you expect from an aged..."
+        }
+    ],
+    "date": "Friday June 16, 2023 15:00 - 15:45 CEST",
+    "location": "FoodTent",
+    "type": "Future of Food, Pitching",
+    "language": "English"
+}

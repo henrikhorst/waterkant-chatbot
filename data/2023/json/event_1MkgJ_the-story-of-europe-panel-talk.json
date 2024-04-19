@@ -1,0 +1,36 @@
+{
+    "title": "The Story of Europe \u2013 Panel Talk",
+    "description": "Europe Think Factory \u2013 Panel Talk:Join us as we're highlighting four speakers from four different ecosystems in the North to discuss the \"Story of Europe\", to open up about their experience in international collaboration, and to share their overall vision for a better together here in Europe.Europe Think Factory is a think tank working on a new narrative of collaboration for innovation, technology, and startups in Europe. Non-profit, independent, a founders collective.",
+    "speakers": [
+        {
+            "name": "Fabian B\u00f6ck",
+            "role": "Founder",
+            "organization": "Europe Think Factory"
+        },
+        {
+            "name": "Erdem Ovacik",
+            "role": "Founder and Executive Board Member",
+            "organization": "Donkey Republic"
+        },
+        {
+            "name": "Elina \u00c5kerlind",
+            "role": "CEO and founder",
+            "organization": "Nordic Node AB"
+        },
+        {
+            "name": "Sakina Turabali",
+            "role": "Co-founder/Chief Growth Officer",
+            "organization": "CodeEasy"
+        }
+    ],
+    "moderators": [
+        {
+            "name": "Linda-Maraike Plath",
+            "role": "Projektkoordination SEEd Schule (Social Entrepreneurship Education)",
+            "organization": "opencampus.sh"
+        }
+    ],
+    "date": "Friday June 16, 2023 11:00 - 11:45 CEST",
+    "location": "Stage 1",
+    "type": "Startup, Panel"
+}

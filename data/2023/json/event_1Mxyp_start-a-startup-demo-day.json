@@ -1,0 +1,58 @@
+{
+    "title": "Start A Startup Demo Day",
+    "description": "Bei unserem Start a Startup Demo Day habt ihr die Chance ganz junge Teams, ihre Visionen und Ideen kennenzulernen. Die Teilnehmer:innen vom Kurs \"Start a Startup\" haben ein ganzes Semester lang mit Herzblut ihren Ideen gewidmet. Jetzt ist endlich der Moment gekommen, in dem ihre Ideen auf der B\u00fchne erstrahlen d\u00fcrfen!Sp\u00fcrt die Energie, die in der Luft liegt, wenn diese jungen Teams aus Kiel und Schleswig-Holstein die B\u00fchne betreten, um uns in nur drei Minuten von ihren vision\u00e4ren Tr\u00e4umen, zuk\u00fcnftigen Produkten und innovativen Dienstleistungen zu erz\u00e4hlen.Unterst\u00fctzt sie, geht Kooperationen ein und vielleicht findet ihr sogar die Gelegenheit, in vielversprechende Ideen zu investieren. Dies ist eure Chance, Teil einer aufregenden Reise zu sein und die Zukunft aktiv mitzugestalten! Seid bereit, eure Sinne von der Aufregung dieser jungen Teams mitrei\u00dfen zu lassen und gemeinsam Gro\u00dfes zu erreichen.Die Teams:Protectify:Protectify verfolgt einen ganzheitlichen Ansatz, der darauf abzielt Opfern von Gewalt eine umfassende Unterst\u00fctzung zu bieten.Cocon:Die mobile H\u00f6hle zur Unterst\u00fctzung der emotionalen Entwicklung von Kindern in Grundschulen.Huuselox:Das modulares, hochmodernes Fahrradmobil.Materialschmiede:Drag and Drop Editor fu\u0308r Lehr- und Lernmaterialien mit KI-Unterstu\u0308tzung.Bitelab:Eine Plattform, auf der StartUps und (Hobby-) Programmierer zusammenkommen.Explorer Elite:Personalisierte Reisedienstleistungen.GrisusPawBiz:Hundeaccesoires f\u00fcr kleine und sehr kleine Hunde.PsyHealth:Eine\u00a0Online Psychotherapie Plattform.Kunst & Coaching:Vom Eindruck zum Ausdruck. Kusnt & Coaching mit Corinna Schneider.Freiraum:1:1 SOUL SESSIONS mit \u00d6zge////At our Start a Startup Demo Day, you have the chance to meet young teams, discover their visions and ideas. The participants of the \"Start a Startup\" course have devoted an entire semester with passion to their ideas. Now, the moment has finally arrived for their ideas to shine on stage!Feel the energy in the air as these young teams from Kiel and Schleswig-Holstein take the stage to share their visionary dreams, future products, and innovative services with us in just three minutes.Support them, explore collaborations, and you might even find the opportunity to invest in promising ideas. This is your chance to be part of an exciting journey and actively shape the future! Get ready to let the excitement of these young teams sweep you away and together achieve something great.",
+    "teams": [
+        {
+            "name": "Protectify",
+            "description": "Protectify verfolgt einen ganzheitlichen Ansatz, der darauf abzielt Opfern von Gewalt eine umfassende Unterst\u00fctzung zu bieten."
+        },
+        {
+            "name": "Cocon",
+            "description": "Die mobile H\u00f6hle zur Unterst\u00fctzung der emotionalen Entwicklung von Kindern in Grundschulen."
+        },
+        {
+            "name": "Huuselox",
+            "description": "Das modulares, hochmodernes Fahrradmobil."
+        },
+        {
+            "name": "Materialschmiede",
+            "description": "Drag and Drop Editor fu\u0308r Lehr- und Lernmaterialien mit KI-Unterstu\u0308tzung."
+        },
+        {
+            "name": "Bitelab",
+            "description": "Eine Plattform, auf der StartUps und (Hobby-) Programmierer zusammenkommen."
+        },
+        {
+            "name": "Explorer Elite",
+            "description": "Personalisierte Reisedienstleistungen."
+        },
+        {
+            "name": "GrisusPawBiz",
+            "description": "Hundeaccesoires f\u00fcr kleine und sehr kleine Hunde."
+        },
+        {
+            "name": "PsyHealth",
+            "description": "Eine Online Psychotherapie Plattform."
+        },
+        {
+            "name": "Kunst & Coaching",
+            "description": "Vom Eindruck zum Ausdruck. Kunst & Coaching mit Corinna Schneider."
+        },
+        {
+            "name": "Freiraum",
+            "description": "1:1 SOUL SESSIONS mit \u00d6zge."
+        }
+    ],
+    "speakers": [
+        {
+            "name": "Cynthia David",
+            "role": "Community Managerin",
+            "organization": "starterkitchen.de",
+            "description": "Community Managerin | Multimedia Designerin | Design & Illustration"
+        }
+    ],
+    "date": "Friday June 16, 2023 11:00 - 11:45 CEST",
+    "location": "Robot Stage",
+    "type": "Startup, Pitching",
+    "language": "Deutsch, English"
+}

@@ -1,0 +1,22 @@
+{
+    "title": "Business Unplugged: Open Source Boom im Norden - Wie kam es zu den Millionenbewertungen f\u00fcr Gitpod + Co?",
+    "description": "Sven Efftinge fuhr im letzten Jahr mit seinem Kieler Startup Gitpod eine 25 Millionen Finanzierungsrunde ein und zeigt, dass Open Source ein gewaltiges Potential hat, f\u00fcr den Norden und weltweit. Sven ist einer der Gr\u00fcnder von Gitpod, einer Open-Source-Entwickler:innenplattform, die die Bereitstellung von sofort einsatzbereiten Entwicklungsumgebungen automatisiert. Die Arbeit von Entwickler:innenteams wird effizienter, denn es werden viele Arbeitsstunden gespart und neue Ebenen der Zusammenarbeit erm\u00f6glicht. Vor Gitpod gr\u00fcndete er die Firma TypeFox in Kiel und initiierte mehrere Open-Source-Projekte im Bereich der Entwicklerwerkzeuge \ud83e\udd20",
+    "speakers": [
+        {
+            "name": "Sven Efftinge",
+            "role": "Co-Founder & Technical Fellow",
+            "organization": "Gitpod",
+            "description": "Sven is a co-founder of Gitpod. After serving as CEO for over three years, he stepped down to focus more on the product as a technical fellow. Prior to Gitpod, he founded TypeFox in Kiel and initiated several open-source projects related to developer tools."
+        },
+        {
+            "name": "Prof. Dr. Johannes Pohl",
+            "role": "Professor, Founder & Podcast-Host",
+            "organization": "IU International University of Applied Science & PEOPEX GmbH",
+            "description": "A Lean-Maniac with a passion for digitalization, 'Business unplugged' Podcast-Host, Founder, Professor & Advisor in the field of Operations for SMEs and startups."
+        }
+    ],
+    "date": "Friday June 16, 2023 16:00 - 16:45 CEST",
+    "location": "Stage 1",
+    "type": "Open Source, Podcast",
+    "language": "Deutsch"
+}

@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+*.nb_checkpoints
+# Exclude output cells from version control
+*.ipynb_output
+# Exclude configuration
+.jupyter

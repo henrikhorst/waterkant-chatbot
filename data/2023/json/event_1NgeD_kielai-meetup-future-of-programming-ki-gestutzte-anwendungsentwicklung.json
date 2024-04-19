@@ -1,0 +1,19 @@
+{
+    "title": "Kiel.Ai Meetup: Future of Programming - KI-gest\u00fctzte Anwendungsentwicklung",
+    "description": "Lass dich inspirieren! Diskutieren wir gemeinsam die Auswirkungen von KI in der Programmierung und wie sie die Softwarequalit\u00e4t ma\u00dfgeblich verbessern kann. Inwiefern ist es zuk\u00fcnftig m\u00f6glich, ohne KI-gest\u00fctzte Softwareentwicklung wettbewerbsf\u00e4hig zu bleiben? Marius und Ellen von Geprog haben erfahrene Softwareentwickler zu dieser Diskussionsrunde eingeladen, um diese Fragen und mehr zu er\u00f6rtern. Sei Teil dieser spannenden Diskussion und entdecke, wie KI eine bessere Welt der Softwareentwicklung erm\u00f6glicht.",
+    "speakers": [
+        {
+            "name": "Marius Heine",
+            "role": "CTO",
+            "organization": "Geprog"
+        },
+        {
+            "name": "Ellen Heine",
+            "role": "Gesch\u00e4ftsf\u00fchrerin",
+            "organization": "GEPROG GmbH"
+        }
+    ],
+    "date": "Friday June 16, 2023 15:00 - 15:45 CEST",
+    "location": "Pagody",
+    "type": "KI / AI, Panel"
+}

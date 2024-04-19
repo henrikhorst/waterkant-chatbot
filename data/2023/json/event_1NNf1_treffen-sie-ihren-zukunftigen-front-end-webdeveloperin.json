@@ -1,0 +1,14 @@
+{
+    "title": "Treffen Sie Ihre:n zuk\u00fcnftigen Front End Webdeveloper:in",
+    "description": "In nur 6 Monaten haben die 25 Teilnehmer:innen desFrontend Webdevelopment Programms von opencampus.sh(powered by KiWi Kieler Wirtschaftsf\u00f6rderung) die Grundlagen der Webprogrammierung mit Hilfe von Online-Trainingsprogrammen, engem Austauch, Praxiseinblicken, Projekten und intensivem Mentoring durch den erfahrenen Webentwickler und Kursleiter Eric Stumper erlernt.Die Themen des Programms gingen weit \u00fcber die Grundlagen der Webentwicklung hinaus. Neben den Basis-Technologien HTML (Struktur), CSS (Gestaltung) und JavaScript (Interaktivit\u00e4t), werdet ihr auch Frameworks und Bibliotheken wie React.js und andere WebDev-Themen wie Testing (Automatische Software Tests), Accessibility (Barrierefreiheit), Offline-Funktionalit\u00e4t, Responsive Design, Git & GitHub (Versionskontrolle und Kollaboration im Team), Cloud Hosting, hatten sie auch Zugriff auf Web APIs (Schnittstellen anderer Web Anwendungen im Internet), Serverless Functions und vieles mehr.Nach diesem Programm sind die Teilnehmer:innen bereit, einen Job als Webprogrammierer:in zu starten. Um diesen Austausch zwischen Unternehmen und den Absolvent:innen desFrontend Webdevelopment Programmszu erm\u00f6glichen, gibt es diese Session. Nach kurzem R\u00fcckblick auf das Programm, k\u00f6nnen Arbeitgeber:innen im Rahmen eines Speeddatings, direkt mit den Absolvent:innen sprechen und sich austauschen.",
+    "speakers": [
+        {
+            "name": "Eric Stumper",
+            "role": "Web Development Mentor and Program Manager",
+            "company": "Opencampus.sh"
+        }
+    ],
+    "date": "Friday June 16, 2023 15:00 - 15:45 CEST",
+    "location": "P1",
+    "type": "Coding, Networking"
+}

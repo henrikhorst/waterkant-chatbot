@@ -1,0 +1,27 @@
+{
+    "title": "Foodlabs Best Practices von Bremen \u00fcber Hamburg zur Cocina in Kiel",
+    "description": "Die drei Speaker:innen und Gr\u00fcnder:innen ihrer Foodlabs wissen, was eine erfolgreiche Gr\u00fcndung im Foodbereich aus- und stark macht. Seid mit dabei, wenn Ihr EUer eigenes Food Startup starten m\u00f6chtet, schon gegr\u00fcndet habt oder andere Foodteams unterst\u00fctzen m\u00f6chtet! So viel sei verraten, es wird Euich schmecken :)",
+    "speakers": [
+        {
+            "name": "Christin Siegemund",
+            "role": "Founder & CEO",
+            "organization": "foodlab.hamburg",
+            "description": "Von Werbung zum Blog zum eigenen Unternehmen: gelernt in Werbe- und Eventagenturen, nach 15 Jahren die Seiten gewechselt und beim Marktf\u00fchrer f\u00fcr Golfmode die Marketingleitung zu \u00fcbernehmen und gemerkt: ich brauche mehr Kreativit\u00e4t. Das war die Geburtsstunde des Foodblogs Hamburger..."
+        },
+        {
+            "name": "Marcel Lungershausen",
+            "role": "Gastronomie-Experte, Referent f\u00fcr BNE und nachhaltige Ern\u00e4hrung, Leiter der Cocina Kiel",
+            "organization": "Cocina CoWorkingKitchen Kiel",
+            "description": "Marcel ist Gr\u00fcnder des ersten veganen Cateringservice Kiels und der Cocina CoWorkingKitchen. Er und sein Team bieten seit 2017 neben dem CoWorking f\u00fcr Foodstartups auch Kurse und Workshops zum Thema gesunde und nachhaltige Ern\u00e4hrung f\u00fcr Kinder und Jugendliche an."
+        },
+        {
+            "name": "Christian Holz",
+            "role": "Projektleiter",
+            "organization": "HANSE KITCHEN Food Hub Bremen",
+            "description": "Christian ist Food Consultant mit langj\u00e4hriger Erfahrung bei internationalen Food Corporates, ist Gr\u00fcnder von culicons Culinary Service | Food Consulting, Business Angel im Raum Bremen, selbst Co-Founder eines Food Start-ups und seit 11/2021 Projektleiter HANSE KITCHEN Food Hub..."
+        }
+    ],
+    "date": "Friday June 16, 2023 11:00 - 11:45 CEST",
+    "location": "FoodTent",
+    "type": "Future of Food"
+}

@@ -1,0 +1,42 @@
+{
+    "title": "Closing Ceremony with Green Unicorn Award 2023",
+    "description": "No description found",
+    "speakers": [
+        {
+            "name": "Alexandra Antwi-Boasiako",
+            "role": "Moderator",
+            "organization": "Alexandra speaks"
+        },
+        {
+            "name": "Elina \u00c5kerlind",
+            "role": "CEO and founder",
+            "organization": "Nordic Node AB",
+            "description": "Elina is a renowned growth strategist and financial advisor with extensive experience working with fast-growing companies. Today she is the co-founder and CEO of Nordic Node, a venture fundraising partner for international scaling."
+        },
+        {
+            "name": "Heidrun Twesten",
+            "role": "Founder, CEO",
+            "organization": "Impacct GmbH"
+        },
+        {
+            "name": "Dr. Inez Linke",
+            "role": "Marine Biologist, Managing Partner",
+            "organization": "Oceanwell"
+        },
+        {
+            "name": "Andree Mehrens",
+            "role": "CEO",
+            "organization": "KITZ Kieler Innovations- und Technologiezentrum",
+            "description": "Das KITZ ist ein Technologiezentrum voller unterschiedlichster Menschen und Firmen. Wir bieten Existenzgr\u00fcndenden und jungen, technologieorientierten Unternehmen umfassende Services und variable Fl\u00e4chenkonzepte."
+        },
+        {
+            "name": "Wolfgang Kerler",
+            "role": "Chief Editor",
+            "organization": "1E9"
+        }
+    ],
+    "date": "Friday June 16, 2023 18:00 - 18:15 CEST",
+    "location": "Stage 2",
+    "type": "GreenTech, Award",
+    "language": "English"
+}
