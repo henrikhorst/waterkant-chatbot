@@ -2,10 +2,6 @@ import uuid
 import json
 import numpy as np
 
-from dotenv import load_dotenv
-
-load_dotenv()  # This loads the environment variables from .env
-
 class Document:
     def __init__(self, content, metadata=None, doc_id=None, num_chunks=None):
         self.content = content
