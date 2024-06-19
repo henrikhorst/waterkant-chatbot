@@ -10,6 +10,8 @@ from helper import Document
 from helper import replace_placeholders
 from datetime import datetime
 
+from utils import get_api_secret
+
 def filter_instances(instances, filters):
     filtered_instances = []
     
@@ -68,7 +70,7 @@ with open('prep/2024/documents.json', 'r') as file:
 
 loaded_documents = [Document.from_json(json_str) for json_str in json_documents]
 
-client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
+client = OpenAI(api_key=lambda : get_api_secret())
 
 def get_embedding(text, model="text-embedding-3-small"):
     text = text.replace("\n", " ")
