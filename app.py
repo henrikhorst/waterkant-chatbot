@@ -8,8 +8,8 @@ st.set_page_config(page_title="🌊 Waterkant Chatbot🏄")
 st.title("🌊 Waterkant Chatbot🏄")
 
 
-
-client = OpenAI(api_key=lambda : get_api_secret())
+key =  get_api_secret()
+client = OpenAI(api_key=key)
 
 
 if "openai_model" not in st.session_state:
