@@ -8,6 +8,7 @@ from helper import find_k_nearest_neighbors
 from helper import waterkant_festival_description
 from helper import Document
 from helper import replace_placeholders
+from utils import get_api_secret
 
 smileys = [
     {"emoji": "🌊", "description": "Wave emoji for water and sea themes."},
@@ -44,7 +45,8 @@ with open("prep/documents.json", "r") as file:
 
 loaded_documents = [Document.from_json(json_str) for json_str in json_documents]
 
-client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
+key = get_api_secret()
+client = OpenAI(api_key=key)
 
 
 def get_embedding(text, model="text-embedding-3-small"):

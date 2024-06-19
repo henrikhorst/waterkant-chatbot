@@ -1,14 +1,15 @@
 from openai import OpenAI
 import streamlit as st
 import helper_appv1
+from utils import get_api_secret
 
 st.set_page_config(page_title="🌊 Waterkant Chatbot🏄")
 
 st.title("🌊 Waterkant Chatbot🏄")
 
 
-
-client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
+key =  get_api_secret()
+client = OpenAI(api_key=key)
 
 
 if "openai_model" not in st.session_state:
