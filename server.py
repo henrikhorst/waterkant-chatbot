@@ -1,4 +1,5 @@
 
+from typing import List
 from fastapi import FastAPI
 from fastapi.responses import StreamingResponse
 from pydantic import BaseModel
@@ -8,6 +9,10 @@ from helper_app2024 import get_response
 
 app = FastAPI()
 
+class ResponsePair(BaseModel):
+    question: str
+    answer: str
+
 class Question(BaseModel):
     content: str
     sender: str
@@ -16,13 +21,17 @@ class Answer(BaseModel):
     content: str
     source: str
 
+class ChatHistory(BaseModel):
+    messages: List[ResponsePair]
+    sender: str
+
 @app.get("/")
 def beat():
     return "server is working at 8000"
 
 
 @app.post("/ask")
-def read_item( question: Question = None):
+def response_for_query( question: Question = None):
     content, _, _ = get_response(question.content, [])
     response = ''
     for item in content:
@@ -36,7 +45,7 @@ def read_item( question: Question = None):
 
 
 @app.post("/ask-stream", response_class=StreamingResponse)
-def read_item( question: Question = None):
+def response_streaming_for_query( question: Question = None):
     def iter_response():
         content, _, _ = get_response(question.content, [])
         for item in content:
