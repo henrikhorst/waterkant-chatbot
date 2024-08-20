@@ -1,29 +1,15 @@
 
-from typing import List
 from fastapi import FastAPI
 from fastapi.responses import StreamingResponse
-from pydantic import BaseModel
 
+from db import update_chat_history
 from helper_app2024 import get_response
+from models import Answer, Question, ResponsePair
 
 
 app = FastAPI()
 
-class ResponsePair(BaseModel):
-    question: str
-    answer: str
 
-class Question(BaseModel):
-    content: str
-    sender: str
-
-class Answer(BaseModel):
-    content: str
-    source: str
-
-class ChatHistory(BaseModel):
-    messages: List[ResponsePair]
-    sender: str
 
 @app.get("/")
 def beat():
@@ -36,9 +22,12 @@ def response_for_query( question: Question = None):
     response = ''
     for item in content:
         if item.choices[0].delta.content is not None:
-            response += item.choices[0].delta.content  
-    print(content)
+            response += item.choices[0].delta.content 
+    
     answer = Answer(content=response, source="ChatGPT")
+    qa_pair = ResponsePair(question=question.content, answer= answer.content)
+    
+    update_chat_history(question, qa_pair)
     
     return answer
 
